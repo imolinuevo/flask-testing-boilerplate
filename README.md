@@ -1,2 +1,2 @@
 # flask-testing-boilerplate
-BOilerplate for flask-like projects usign PyTest
+Boilerplate for flask-like projects usign PyTest
